@@ -1,0 +1,5 @@
+https://yourdomain.com
+your__bot__token
+chat__id1:thread__id1,chat__id2,chat__id3:thread__id3
+your__telegram__secret
+your__gitlab_secret
